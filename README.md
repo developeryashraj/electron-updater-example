@@ -12,3 +12,5 @@
 1. Put 4 files from `dist` folder once build is complete in that new seperate (parallel) folder.
 1. Now again change version to `1.0.0` and do `npm start` to open it in dev mode.
 1. Click on **Check for update** button and check logs in command prompt or in dev tool as well.
+
+Reference app from :- https://github.com/electron/electron-quick-start
